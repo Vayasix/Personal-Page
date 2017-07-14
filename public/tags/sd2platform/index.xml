@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sd2platform on Hiroki Imabayashi</title>
+    <link>http://www.yama.info.waseda.ac.jp/~imabayashi/tags/sd2platform/</link>
+    <description>Recent content in Sd2platform on Hiroki Imabayashi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Hiroki Imabayashi</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/~imabayashi/tags/sd2platform/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SD2 PLATRFORM</title>
+      <link>http://www.yama.info.waseda.ac.jp/~imabayashi/project/sd2platform/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.yama.info.waseda.ac.jp/~imabayashi/project/sd2platform/</guid>
+      <description>&lt;p&gt;Secure data sharing and distribution platform for integrated big data utilization –Handling all data with encryption- (run by JST CREST from 2015) This project aims to construct an open-source library for data mining which handles data on an encrypted state. We are optimizing it from the aspects of both algorithm level and architecture level, making it more than 1000 times faster than today’s FHE.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

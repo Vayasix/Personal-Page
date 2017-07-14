@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Hiroki Imabayashi</title>
+    <link>http://www.yama.info.waseda.ac.jp/~imabayashi/home/</link>
+    <description>Recent content in Homes on Hiroki Imabayashi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Hiroki Imabayashi</copyright>
+    <lastBuildDate>Fri, 14 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/~imabayashi/home/" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

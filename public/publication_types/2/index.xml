@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Hiroki Imabayashi</title>
+    <link>http://www.yama.info.waseda.ac.jp/~imabayashi/publication_types/2/</link>
+    <description>Recent content in 2 on Hiroki Imabayashi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Hiroki Imabayashi</copyright>
+    <lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/~imabayashi/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Streamline Computation of Secure Frequent Pattern Mining by Fully Homomorphic Encryption</title>
+      <link>http://www.yama.info.waseda.ac.jp/~imabayashi/publication/ipsj_tod/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.yama.info.waseda.ac.jp/~imabayashi/publication/ipsj_tod/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trend on Applications of Fully Homomorphic Encryption for Data Mining</title>
+      <link>http://www.yama.info.waseda.ac.jp/~imabayashi/publication/fit2/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.yama.info.waseda.ac.jp/~imabayashi/publication/fit2/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

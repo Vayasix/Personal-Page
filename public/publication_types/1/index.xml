@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Hiroki Imabayashi</title>
+    <link>http://www.yama.info.waseda.ac.jp/~imabayashi/publication_types/1/</link>
+    <description>Recent content in 1 on Hiroki Imabayashi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Hiroki Imabayashi</copyright>
+    <lastBuildDate>Sun, 28 May 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/~imabayashi/publication_types/1/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Private Substring Search on Homomorphically Encrypted Data</title>
+      <link>http://www.yama.info.waseda.ac.jp/~imabayashi/publication/ieee_bits/</link>
+      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.yama.info.waseda.ac.jp/~imabayashi/publication/ieee_bits/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acceleration of Secure Frequent Pattern Mining by Fully Homomorphic Encryption on NUMA machine</title>
+      <link>http://www.yama.info.waseda.ac.jp/~imabayashi/publication/deim2/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.yama.info.waseda.ac.jp/~imabayashi/publication/deim2/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acceleration of Secure Frequent Pattern Mining by Stream Processing</title>
+      <link>http://www.yama.info.waseda.ac.jp/~imabayashi/publication/deim1/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.yama.info.waseda.ac.jp/~imabayashi/publication/deim1/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fast and Space-Efficient Secure Frequent Pattern Mining by FHE</title>
+      <link>http://www.yama.info.waseda.ac.jp/~imabayashi/publication/ieee_bigdata1/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.yama.info.waseda.ac.jp/~imabayashi/publication/ieee_bigdata1/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy-Preserving String Search for Genome Sequences with FHE bootstrapping optimization</title>
+      <link>http://www.yama.info.waseda.ac.jp/~imabayashi/publication/ieee_bigdata2/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.yama.info.waseda.ac.jp/~imabayashi/publication/ieee_bigdata2/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Survey on Attribute-based Encryption and its Application in Cloud and Mobile Environment</title>
+      <link>http://www.yama.info.waseda.ac.jp/~imabayashi/publication/fit1/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.yama.info.waseda.ac.jp/~imabayashi/publication/fit1/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Secure Frequent Pattern Mining by Fully Homomorphic Encryption with Ciphertext Packing</title>
+      <link>http://www.yama.info.waseda.ac.jp/~imabayashi/publication/dpm/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.yama.info.waseda.ac.jp/~imabayashi/publication/dpm/</guid>
+      <description>&lt;p&gt;WASEDA: &lt;a href=&#34;https://waseda.pure.elsevier.com/en/publications/secure-frequent-pattern-mining-by-fully-homomorphic-encryption-wi&#34; target=&#34;_blank&#34;&gt;https://waseda.pure.elsevier.com/en/publications/secure-frequent-pattern-mining-by-fully-homomorphic-encryption-wi&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
